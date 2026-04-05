@@ -126,7 +126,7 @@ if prompt:
         with st.spinner("Searching the handbook..."):
             try:
                 # Call the FastAPI backend (Make sure your uvicorn server is running!)
-                response = requests.post("https://gitlab-handbook-rag-ai.onrender.com", json={"question": prompt})
+                response = requests.post("https://gitlab-handbook-rag-ai.onrender.com/chat", json={"question": prompt})
                 
                 if response.status_code == 200:
                     bot_reply = response.json().get("answer", "No answer found in response.")
