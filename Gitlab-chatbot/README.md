@@ -1,5 +1,14 @@
 # 🦊 GitLab Handbook AI Assistant
 
+**🔗 Live Links:**
+* 🌐 **Frontend (Streamlit):** [Click here to use the Chatbot](https://app-handbook-rag-ai-hcgfmc7nansdzzcnbsmu3c.streamlit.app)
+* ⚙️ **Backend API (Render):** [Click here to view the API Docs](https://gitlab-handbook-rag-ai.onrender.com/docs)
+
+An end-to-end RAG (Retrieval-Augmented Generation) pipeline that allows users to chat with the GitLab Company Handbook using AI. This tool helps employees and candidates instantly find culture and policy information without manual searching.
+
+## 🚀 Key Features
+... (the rest of your README stays exactly the same)
+
 An end-to-end RAG (Retrieval-Augmented Generation) pipeline that allows users to chat with the GitLab Company Handbook using AI. This tool helps employees and candidates instantly find culture and policy information without manual searching.
 
 ---
