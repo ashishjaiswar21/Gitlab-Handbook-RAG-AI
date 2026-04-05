@@ -94,11 +94,6 @@ streamlit run frontend/app.py
 
 ---
 
-🌐 The application will automatically open in your browser at:
-👉 http://localhost:8501
-
----
-
 ## 👨‍💻 Developer
 
 **Ashish Kumar**
